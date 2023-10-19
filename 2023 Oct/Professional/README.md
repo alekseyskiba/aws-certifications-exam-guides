@@ -1,0 +1,2 @@
+This folder contains exam guides and sample questions for Professional level AWS exams.
+For DevOps Engineer - Professional questions are not available in the form of transportable file, instead of this, the Exam Prep Official Practice Question Set: AWS Certified DevOps Engineer - Professional (DOP-C02) available via Skillbuilder (authorization via Amazon account needed) in the form of test exam wizard (20 questions).
