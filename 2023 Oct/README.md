@@ -8,3 +8,4 @@ Compared to previous "release", something new was added:
 - New exam: SAP on AWS - Specialty
 - Certification roadmap renewed according to new exams appeared on it
 - Added certification paths
+- Removed exam: Alexa Skill Builder - Specialty
