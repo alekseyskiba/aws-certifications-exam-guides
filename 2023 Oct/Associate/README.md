@@ -1,0 +1,2 @@
+This folder contains exam guides and sample questions for the Associate level AWS exams.
+For Data Engineer - Associate questions are not available in the form of transportable file, instead of this, the Exam Prep Official Practice Question Set: AWS Certified Data Engineer Associate (DEA-C01) available via Skillbuilder (authorization via Amazon account needed) in the form of test exam wizard (20 questions).
